@@ -4,6 +4,7 @@ This is a list of ideas of actions and workflows that people would like to see o
 
 If you would like to contribute to this, please feel free to add something! We only ask that you first check to see if the action already exists before doing so.
 
+
 ## Ideas
 
 - Stargazer Threshold action - continue through a workflow after a certain number of stars is passed (every 100 stars, every 500 stars, etc)
